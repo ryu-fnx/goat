@@ -51,7 +51,7 @@ npm install @goat-sdk/wallet-solana
 3. Install the plugins for the protocols you need (see all available plugins [here](#plugins))
 
 ```bash
-npm install @goat-sdk/plugin-jupiter @goat-sdk/plugin-spl-tokens
+npm install @goat-sdk/plugin-jupiter @goat-sdk/plugin-spl-token
 ```
 4. Install the adapter for the agent framework you want to use (see all available adapters [here](#adapters))
 ```bash
